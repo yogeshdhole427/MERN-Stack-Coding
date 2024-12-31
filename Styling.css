@@ -1,0 +1,10 @@
+/* In a separate CSS file */
+.pagination-controls {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.month-selector {
+  width: 200px;
+  margin-bottom: 20px;
+}
